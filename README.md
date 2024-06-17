@@ -1,4 +1,4 @@
-# Achieve AWS AI Practitioner Certificate
+# Achieve AWS AI Practitioner Certificate (Coming soon..)
 This Repo will prepare for you the knowledge to achieved new AWS ML Cert. We will learn together the fundamental and try to have some practices on AWS AI services.
 
 ## Table of Contents
